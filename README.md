@@ -6,19 +6,23 @@ La prueba consiste en agregar nueva funcionalidad a la API REST que corre en est
 
 1) Hacer un fork del repositorio, crear un nuevo branch y realizar las tareas enunciadas a continuación.
 
+OK
+
 2) Proveer servicios para la administración de la compra de productos. Los mismos deberán incluir:
 - ABM de productos.
 - ABM de clientes.
 - Consulta de transacciones de compra.
 - Aprobación de compras.
+
+OK
  
-3) Los servicios deben contar con logs que indiquen si el servicio respondió y proceso correctamente o no.
+3) Los servicios deben contar con logs que indiquen si el servicio respondió y proceso correctamente o no. OK
   
-4) Documentar brevemente los servicios implementados.
+4) Documentar brevemente los servicios implementados. OK
  
-5) Todos los servicios deben contar, al menos, con test unitarios.
+5) Todos los servicios deben contar, al menos, con test unitarios. OK
  
-6) Enviar un Pull Request con todos los cambios realizados. 
+6) Enviar un Pull Request con todos los cambios realizados. OK
 
 Para correr la aplicación se puede utilizar maven: 
 
@@ -30,9 +34,9 @@ Pueden probar el servicio echo con un curl de la siguiente forma:
 
 Bonus
 
-1) ABM de vendedores.
+1) ABM de vendedores. OK
 2) Agregar test de integración.
-3) Calcular la cobertura de los tests.
+3) Calcular la cobertura de los tests. -80% -ver
 4) Correr pruebas con base de datos en memoria.
-5) Crear Docker Image.
+5) Crear Docker Image. OK
 6) Hostear la app en un cloud computing libre y enviar la URL para consultar.
